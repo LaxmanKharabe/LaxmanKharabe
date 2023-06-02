@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LaxmanKharabe
-- 👀 I am a Front-End Developer
-- 🌱 I’m currently learning Angular 10
+- 👀 Front-End Developer
 - 📫 How to reach me laxman31097@gmail.com
 
 <!---
