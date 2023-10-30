@@ -19,7 +19,6 @@
     RESTful APIs
     Webpack and Babel
     Responsive web design
-![react js-img](https://github.com/LaxmanKharabe/LaxmanKharabe/assets/66318636/6160f732-e0fc-4a97-a38b-88f146339f71)
 
 
 📧 Contact me at [Your Email]
