@@ -9,7 +9,7 @@
 - 📚 Keeping up-to-date with the latest web technologies and best practices
   
 - 📦 Some technologies and tools I'm familiar with:
-- React.j
+- React.js
 - Redux
 - JavaScript (ES6+)
 - HTML5 and CSS3
