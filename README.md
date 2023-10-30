@@ -10,4 +10,4 @@
   
 - 📦 Some technologies and tools I'm familiar with:
 - React.js --Redux --JavaScript (ES6+) --Typescript --jQuery --HTML5 & CSS3 --Bootstrap
-- Node.js --Git and GitHub --RESTful APIs --Webpack and Babel --Responsive web design
+- Node.js --MongoDB --Git and GitHub --RESTful APIs --Webpack and Babel --Responsive web design
