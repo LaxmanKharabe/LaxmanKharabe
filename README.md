@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @Laxman Kharabe, a passionate React.js developer with With 2.7+ years of experience.
+- 👋 Hello, I'm @Laxman Kharabe, a passionate React.js developer with With 2.7 years of experience.
 - 🚀 My expertise lies in:
 - ✅ Building user-friendly and interactive web interfaces using React.js
 - 📱 Crafting mobile-responsive applications
